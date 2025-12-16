@@ -4,7 +4,7 @@ A beginner-friendly Wix website created to explore layout, design options, and o
 
 ## 🔗 Live Demo
 
-👉 [View Website](https://eshaifulislam.wixsite.com/greenandclean)
+👉 [eshaifulislam.wixsite.com/greenandclean](https://eshaifulislam.wixsite.com/greenandclean)
 
 ## 📌 Overview
 
